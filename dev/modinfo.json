@@ -1,0 +1,8 @@
+{
+    "type": "content",
+    "modid": "chickenfeed",
+    "name": "Chicken feed",
+    "description": "Adds chicken feed",
+    "authors": ["VulcanoLV"],
+    "version": "1.1.8"
+}

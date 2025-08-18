@@ -1,0 +1,89 @@
+[
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTagsByType": {"*-cereopsisnovaehollandiae":["chickenfeed"]}
+        },
+        "file": "casuariidae:entities/land/anatidae-adult.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTagsByType": {"*-cereopsisnovaehollandiae":["chickenfeed"]}
+        },
+        "file": "casuariidae:entities/land/anatidae-baby.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/casuariidae-adult.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/casuariidae-baby.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/dromornithidae-adult.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/dromornithidae-baby.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/rallidae-adult.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "casuariidae:entities/land/rallidae-baby.json",
+        "dependsOn": [ { "modid": "casuariidae" } ],
+        "side": "Server"
+    }
+]

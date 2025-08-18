@@ -1,0 +1,34 @@
+[
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "thecritterpack:entities/land/duck/duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "thecritterpack:entities/land/duck/duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": {
+            "foodTags": ["chickenfeed"]
+        },
+        "file": "thecritterpack:entities/land/duck/duck-male.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    }
+]
