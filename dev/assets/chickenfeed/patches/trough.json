@@ -35,7 +35,7 @@
   },
 
   {
-    "op": "add",
+    "op": "addmerge",
     "path": "/textures/contents-chickenfeed",
     "value": { "base": "chickenfeed:item/chickenfeed" },
     "file": "game:blocktypes/wood/trough-small"
@@ -43,7 +43,7 @@
   },
 
   {
-    "op": "add",
+    "op": "addmerge",
     "path": "/attributes/contentConfig/-",
     "value": {
       "code": "chickenfeed",
@@ -78,7 +78,7 @@
   },
 
   {
-    "op": "add",
+    "op": "addmerge",
     "path": "/textures/contents-chickenfeed",
     "value": { "base": "chickenfeed:item/chickenfeed" },
     "file": "game:blocktypes/wood/trough-large"

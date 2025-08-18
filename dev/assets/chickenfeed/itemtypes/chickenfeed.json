@@ -8,7 +8,7 @@
 		"construction": [ "*" ]
 	},
 	"maxStackSize": 64,
-	"texture": { base: "item/chickenfeed-pile" },
+	"texture": { "base": "item/chickenfeed-pile" },
 	"shape": { "base": "game:item/resource/crushed/normal" },
     "materialDensity": 600,	
 	"guiTransform": {
