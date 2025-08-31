@@ -1,25 +1,17 @@
 [
     {
       "op": "addmerge",
-      "path": "/attributes/creatureDiet/foodTags/-",
-      "value": "chickenfeed",
-      "file": "game:entities/land/chicken-hen.json",
+      "path": "/attributes/creatureDiet/weightedFoodTags/-",
+      "value": { "weight": 1, "code": "chickenfeed" },
+      "file": "game:entities/animal/bird/chicken-adult.json",
       "side": "Server"
     },
 
     {
       "op": "addmerge",
-      "path": "/attributes/creatureDiet/foodTags/-",
-      "value": "chickenfeed",
-      "file": "game:entities/land/chicken-baby.json",
-      "side": "Server"
-    },
-
-    {
-      "op": "addmerge",
-      "path": "/attributes/creatureDiet/foodTags/-",
-      "value": "chickenfeed",
-      "file": "game:entities/land/chicken-rooster.json",
+      "path": "/attributes/creatureDiet/weightedFoodTags/-",
+      "value": { "weight": 1, "code": "chickenfeed" },
+      "file": "game:entities/animal/bird/chicken-baby.json",
       "side": "Server"
     }
   ]
