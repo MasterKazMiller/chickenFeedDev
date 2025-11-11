@@ -1,33 +1,81 @@
 [
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "thecritterpack:entities/land/duck/duck-baby.json",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+    
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-female.json",
         "dependsOn": [ { "modid": "thecritterpack" } ],
         "side": "Server"
     },
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "thecritterpack:entities/land/duck/duck-female.json",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-male.json",
         "dependsOn": [ { "modid": "thecritterpack" } ],
         "side": "Server"
     },
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "thecritterpack:entities/land/duck/duck-male.json",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+    
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-male.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+    
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpack" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet/weightedFoodTags/-",
+        "value": {"weight": 1, "code":"chickenfeed"},
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-male.json",
         "dependsOn": [ { "modid": "thecritterpack" } ],
         "side": "Server"
     }

@@ -1,6 +1,6 @@
 [
     {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
         "file": "moreanimals:entities/capercaillie-chick.json",
@@ -9,43 +9,16 @@
     },
 
     {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
-        "file": "moreanimals:entities/capercaillie-cock.json",
+        "file": "moreanimals:entities/capercaillie.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
     },
 
     {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/capercaillie-cockpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/capercaillie-hen.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/capercaillie-henpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
         "file": "moreanimals:entities/goldenpheasant-chick.json",
@@ -54,43 +27,16 @@
     },
 
     {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
-        "file": "moreanimals:entities/goldenpheasant-cock.json",
+        "file": "moreanimals:entities/goldenpheasant.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
     },
 
     {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/goldenpheasant-cockpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/goldenpheasant-hen.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/goldenpheasant-henpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
         "file": "moreanimals:entities/pheasant-chick.json",
@@ -99,43 +45,16 @@
     },
 
     {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
-        "file": "moreanimals:entities/pheasant-cock.json",
+        "file": "moreanimals:entities/pheasant.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
     },
 
     {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/pheasant-cockpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/pheasant-hen.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/pheasant-henpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
         "file": "moreanimals:entities/wildturkey-chick.json",
@@ -144,37 +63,10 @@
     },
 
     {
-        "op": "add",
+        "op": "addmerge",
         "path": "/attributes/creatureDiet/foodTags/-",
         "value": "chickenfeed",
-        "file": "moreanimals:entities/wildturkey-cock.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/wildturkey-cockpoult.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/wildturkey-hen.json",
-        "dependsOn": [ { "modid": "moreanimals" } ],
-        "side": "Server"
-    },
-
-    {
-        "op": "add",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
-        "file": "moreanimals:entities/wildturkey-henpoult.json",
+        "file": "moreanimals:entities/wildturkey.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
     }
