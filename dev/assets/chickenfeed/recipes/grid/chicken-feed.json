@@ -164,5 +164,29 @@
         "code": "chickenfeed:chickenfeed",
         "quantity": 4
       }
+    },
+
+    {
+      "ingredientPattern": "PC",
+      "width": 2,
+      "height": 1,
+      "ingredients": {
+        "P": {
+          "type": "item",
+          "code": "game:grain-*",
+          "quantity": 1
+        },
+        "C": {
+          "type": "item",
+          "code": "game:creature-earthworm-dead",
+          "quantity": 1
+        }
+      },
+      "recipeGroup": 3,
+      "output": {
+        "type": "item",
+        "code": "chickenfeed:chickenfeed",
+        "quantity": 4
+      }
     }
 ]
