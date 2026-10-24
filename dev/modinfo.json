@@ -1,8 +1,10 @@
 {
     "type": "content",
+    "textureSize": 32,
+    "name": "Chicken Feed",
     "modid": "chickenfeed",
-    "name": "Chicken feed",
-    "description": "Adds chicken feed",
-    "authors": ["VulcanoLV"],
-    "version": "1.1.12"
+    "version": "1.2.0",
+    "description": "Adds specific feed for chickens, as well as various external mod added birds and bird like creatures.",
+    "authors": ["VulcanoLV, NekoJess"],
+    "dependencies": { "game": "1.22.0" }
 }
