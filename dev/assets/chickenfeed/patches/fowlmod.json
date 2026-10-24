@@ -1,0 +1,19 @@
+[
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "fowlmod:entities/animal/bird/duck-adult.json",
+        "dependsOn": [ { "modid": "fowlmod" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "fowlmod:entities/animal/bird/duck-baby.json",
+        "dependsOn": [ { "modid": "fowlmod" } ],
+        "side": "Server"
+    }
+]

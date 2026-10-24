@@ -1,0 +1,163 @@
+[
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/call/call-duck-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+    
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/mallard/mallard-duck-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/duck/pekin/pekin-duck-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/black/black-swan-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+    
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/black/black-swan-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/black/black-swan-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/mute/mute-swan-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/mute/mute-swan-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/mute/mute-swan-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/trumpeter/trumpeter-swan-baby.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/trumpeter/trumpeter-swan-female.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "thecritterpack:entities/animal/bird/swan/trumpeter/trumpeter-swan-male.json",
+        "dependsOn": [ { "modid": "thecritterpackcontinued" } ],
+        "side": "Server"
+    }
+]

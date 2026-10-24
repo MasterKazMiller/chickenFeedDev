@@ -2,9 +2,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/cockatrice-chick.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -13,9 +11,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/cockatrice.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -24,9 +20,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/tame-cockatrice-chick.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -35,9 +29,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/tame-cockatrice.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -46,9 +38,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/ostrich-chick.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -57,9 +47,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/ostrich.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -68,9 +56,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/tame-ostrich-chick.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"
@@ -79,9 +65,7 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "feverstonewilds:entities/land/tame-ostrich.json",
         "dependsOn": [ { "modid": "feverstonewilds" } ],
         "side": "Server"

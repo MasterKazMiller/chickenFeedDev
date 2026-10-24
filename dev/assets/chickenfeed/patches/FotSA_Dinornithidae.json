@@ -2,10 +2,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/acanthisittidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/anatidae-adult.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -13,10 +11,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/aegothelidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/anatidae-baby.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -24,10 +20,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTagsByType": {"*":["chickenfeed"]}
-        },
-        "file": "dinornithidae:entities/land/anatidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/apterygidae-adult.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -35,10 +29,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/apterygidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/apterygidae-baby.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -46,10 +38,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/aptornithidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/dinornithidae-adult.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -57,10 +47,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/dinornithidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/dinornithidae-baby.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -68,10 +56,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/emeidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/emeidae-adult.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -79,10 +65,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/megalapterygidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/emeidae-baby.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -90,10 +74,8 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTagsByType": {"*":["chickenfeed"]}
-        },
-        "file": "dinornithidae:entities/land/rallidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/megalapterygidae-adult.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     },
@@ -101,10 +83,44 @@
     {
         "op": "addmerge",
         "path": "/attributes/creatureDiet",
-        "value": {
-            "foodTags": ["chickenfeed"]
-        },
-        "file": "dinornithidae:entities/land/strigopidae.json",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/megalapterygidae-baby.json",
+        "dependsOn": [ { "modid": "dinornithidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/rallidae-adult.json",
+        "dependsOn": [ { "modid": "dinornithidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/rallidae-baby.json",
+        "dependsOn": [ { "modid": "dinornithidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/strigopidae-adult.json",
+        "dependsOn": [ { "modid": "dinornithidae" } ],
+        "side": "Server"
+    },
+
+    {
+        "op": "addmerge",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
+        "file": "dinornithidae:entities/animal/bird/strigopidae-baby.json",
         "dependsOn": [ { "modid": "dinornithidae" } ],
         "side": "Server"
     }
