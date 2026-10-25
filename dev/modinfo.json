@@ -5,6 +5,5 @@
     "modid": "chickenfeed",
     "version": "1.2.0",
     "description": "Adds specific feed for chickens, as well as various external mod added birds and bird like creatures.",
-    "authors": ["VulcanoLV, NekoJess"],
-    "dependencies": { "game": "1.22.0" }
+    "authors": ["VulcanoLV, NekoJess"]
 }
