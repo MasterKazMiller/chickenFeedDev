@@ -1,8 +1,8 @@
 [
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/capercaillie-chick.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -10,8 +10,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/capercaillie.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -19,8 +19,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/goldenpheasant-chick.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -28,8 +28,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/goldenpheasant.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -37,8 +37,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/pheasant-chick.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -46,8 +46,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/pheasant.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -55,8 +55,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/wildturkey-chick.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
@@ -64,8 +64,8 @@
 
     {
         "op": "addmerge",
-        "path": "/attributes/creatureDiet/foodTags/-",
-        "value": "chickenfeed",
+        "path": "/attributes/creatureDiet",
+        "value": { "foodTags": ["chickenfeed"] },
         "file": "moreanimals:entities/wildturkey.json",
         "dependsOn": [ { "modid": "moreanimals" } ],
         "side": "Server"
